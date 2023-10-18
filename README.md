@@ -1,6 +1,6 @@
-# task_management_app
+# task_management
 
-A new Flutter project.
+A new Flutter project : MTA - Management Task 
 
 ## Getting Started
 
